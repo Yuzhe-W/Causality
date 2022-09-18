@@ -1,2 +1,2 @@
-# Granger-Causality-ongoing-project
+# Granger-Causality, ongoing-project
 Machine learning. Granger causality for causal inference
